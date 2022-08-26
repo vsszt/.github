@@ -1,6 +1,7 @@
 # Imperfect Beauty Team Offical Repo🎢
 ---
-<img src='../images/project.jpg' title='project cover'>
+<!-- <img src='../images/project.jpg' title='project cover'> -->
+![project cover](https://github.com/vsszt/.github/blob/master/images/project.jpg)
 
 ## What we do?
 Foucing on Stiching, 3D and other intersting NFT creating. :-)
